@@ -1,4 +1,4 @@
-# Personal Website Project ![enter image description here](https://s8.uupload.ir/files/template_mk5d.png)
+# Personal Website Project      ![enter image description here](https://s8.uupload.ir/files/new_project_%281%29_7vkw.png)
 Welcome to my personal website project! This website is created to showcase and present my professional resume and profile. It serves as a hub for businesses, employers, and individuals interested in collaborating with me to learn more about my skills and experiences.
 
 **Technologies Used:**
@@ -43,4 +43,3 @@ That's it! Now, you can access and view your personal website locally by visitin
 Make sure to customize the website's content, resume, and profile according to your needs. If you wish to deploy the website to a production server, you may want to explore deployment options for static sites or other hosting solutions.
 
 If you have any questions or need further assistance, feel free to reach out. Happy coding!
-
