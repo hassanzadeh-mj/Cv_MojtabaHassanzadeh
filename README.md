@@ -1,4 +1,4 @@
-![enter image description here](https://s8.uupload.ir/files/new_project_%281%29_aztk.png)
+![enter image description here](https://s8.uupload.ir/files/new_project_%282%29_u216.png)
 # Personal Website Project      ![enter image description here](https://s8.uupload.ir/files/new_project_%281%29_7vkw.png)
 Welcome to my personal website project! This website is created to showcase and present my professional resume and profile. It serves as a hub for businesses, employers, and individuals interested in collaborating with me to learn more about my skills and experiences.
 
